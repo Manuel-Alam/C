@@ -1,0 +1,10 @@
+//Example of input and output of transmit.c
+
+//Program is ran and prompts user for input
+Please enter a message to transmit:
+
+//User enters a message as input to be transmitted into short integers
+Please enter a message to transmit: It is a nice day
+
+//The output will then be given as below:
+2974 3924 1284 3226 3900 1284 3084 1284 3314 3226 3134 3144 1284 3670 3084 3992
