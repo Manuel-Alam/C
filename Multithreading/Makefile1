@@ -1,0 +1,2 @@
+program: singleAssessment.c 
+	gcc -o singleMorph singleAssessment.c 
